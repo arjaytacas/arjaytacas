@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Arjay 👋
 
-<!--
-**arjaytacas/arjaytacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 I'm currently learning Python and solving bioinformatics problems on [Rosalind](https://rosalind.info).  
+🧬 As a Biological Engineer, I'm passionate about combining life sciences with coding to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Current Projects
+- Solving Rosalind challenges with Python and documenting my progress
+- Practicing Git and version control
+- Exploring basic data analysis with Pandas
+
+---
+
+## 💻 Skills
+- Python (beginner–intermediate)
+- Bioinformatics foundations (e.g., sequence analysis, algorithmic thinking)
+- Data handling with Excel and basic Pandas
+
+---
+
+## 📫 Let's Connect!
+- ✉️ arjaytacas144@gmail.com  
+- 🔗 [GitHub Projects](https://github.com/arjaytacas)
+
+---
+
+_Thanks for stopping by! I'm always open to feedback, opportunities, and collaborations._ 😊
